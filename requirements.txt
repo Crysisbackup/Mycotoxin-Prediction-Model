@@ -1,0 +1,4 @@
+tensorflow 2.19
+scikeras 0.13
+scikit-learn 1.6
+keras 2.19
